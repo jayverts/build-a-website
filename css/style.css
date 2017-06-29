@@ -1,0 +1,23 @@
+.header, .footer {
+    background-color: grey;
+    color: white;
+    padding: 15px; 
+    clear: right;
+}
+#stud{
+	float: right;
+}
+.middle{
+  display: inline-block;  
+}
+#me {
+  float: left;
+}
+#experience{
+  text-align: right;
+}
+.span {
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
